@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858564148511",
+    "project_id": "otpautodetect-92b9c",
+    "storage_bucket": "otpautodetect-92b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858564148511:android:21a8098fa9d7be9cc0042a",
+        "android_client_info": {
+          "package_name": "com.rrsalian16.otpautodetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858564148511-g5t1jmgl7q6u7bgob7no7k6drmji562k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEg0gFDXvnPHOfYqcOrtaMeUUjSUfyIoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858564148511-g5t1jmgl7q6u7bgob7no7k6drmji562k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
